@@ -8,6 +8,9 @@
 
 import UIKit
 
+let w = UIScreen.main.bounds.width
+let h = UIScreen.main.bounds.height
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
